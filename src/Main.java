@@ -3,7 +3,8 @@ public class Main {
         System.out.println("Hello world!");
         double x = 5;
         double y = 7;
-        double z = x/y;
-        System.out.println("x / y = " + z);
+        double q = 3;
+        double z = x/y -q;
+        System.out.println("x / y  - q = " + z);
     }
 }
