@@ -4,7 +4,7 @@ public class Main {
         double x = 5;
         double y = 7;
         double q = 3;
-        double z = x/y -q;
-        System.out.println("x / y  - q = " + z);
+        double z = x / y + q;
+        System.out.println("x / y  + q = " + z);
     }
 }
